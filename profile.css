@@ -7,8 +7,8 @@
 }
 body{
     
-    background: rgb(89,11,11);
-    background: linear-gradient(90deg, rgba(89,11,11,1) 41%, rgba(85,77,222,1) 99%);
+    background: rgb(34,193,195);
+background: linear-gradient(177deg, rgba(34,193,195,1) 0%, rgba(192,202,249,1) 100%);
 }
 .center{
     display: flex;
